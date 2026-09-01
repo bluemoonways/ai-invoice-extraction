@@ -79,7 +79,6 @@ You can view and download the complete n8n workflow here:
 
 👉 [View n8n Workflow JSON](Invoice_Extraction_Workflow.json)
 
-
 ## 👨‍💻 Author
 
 **Faheem Abbas**
