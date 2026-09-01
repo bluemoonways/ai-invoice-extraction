@@ -73,13 +73,11 @@ Sample invoice total: **PKR 149,000**
 - **Google Sheets**
 - **Workflow Automation**
 
-## ⚠️ Setup Notes
+## 📁 Workflow File
 
-1. Import `Invoice_Extraction_Workflow.json` into n8n.
-2. Connect your own Google Gemini credentials.
-3. Connect your own Google Sheets account.
-4. Configure your own Google Sheet.
-5. Test with a sample PDF invoice.
+You can view and download the complete n8n workflow here:
+
+👉 [View n8n Workflow JSON](Invoice_Extraction_Workflow.json)
 
 
 ## 👨‍💻 Author
