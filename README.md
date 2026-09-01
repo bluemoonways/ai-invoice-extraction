@@ -10,19 +10,7 @@ Each invoice line item is then split into an individual record before being stor
 
 ## 🔄 Workflow
 
-```text
-PDF Invoice Upload
-        ↓
-Extract Text from PDF
-        ↓
-Google Gemini AI Agent
-        ↓
-Structured JSON Output
-        ↓
-Split Out Line Items
-        ↓
-Google Sheets
-```
+![AI Invoice Extraction Workflow](screenshots/Invoice%20Extraction%20Workflow.png)
 
 ## ✨ Key Features
 
