@@ -12,6 +12,12 @@ Each invoice line item is then split into an individual record before being stor
 
 ![AI Invoice Extraction Workflow](screenshots/Invoice%20Extraction%20Workflow.png)
 
+## 🎥 Project Demo
+
+Watch the 1-minute demo to see the AI Invoice Extraction workflow in action — from PDF invoice upload and AI-powered extraction to structured line-item data in Google Sheets.
+
+👉 [Watch Project Demo](https://youtube.com/shorts/NQX4JB139kM?feature=share)
+
 ## ✨ Key Features
 
 - 📄 Upload invoices through an n8n form
